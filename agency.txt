@@ -1,0 +1,2 @@
+agency_phone,agency_url,agency_lang,agency_id,agency_name,agency_timezone,agency_fare_url
+906-487-1441,http://www.mtu.edu/facilities/parking/information,EN,,Michigan Technological University,America/Detroit,http://www.mtu.edu/facilities/parking/information
